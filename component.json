@@ -1,0 +1,18 @@
+{
+  "name": "jqcomp/wrap",
+  "description": "JavaScript library for DOM operations",
+  "homepage": "http://jquery.com",
+  "author": "jQuery Foundation and other contributors",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jquery/jquery.git"
+  },
+  "version": "2.0.0",
+  "dependencies": {
+    "jqcomp/core": "2.0.0"
+  },
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
